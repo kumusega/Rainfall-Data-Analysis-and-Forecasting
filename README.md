@@ -1,7 +1,7 @@
 📊 Univariate Time Series Analysis and Forecasting
 
 🚀 Project Overview
-###This project focuses on univariate time series analysis using historical precipitation data. The main goal is to forecast future rainfall using advanced time series models.
+This project focuses on univariate time series analysis using historical precipitation data. The main goal is to forecast future rainfall using advanced time series models.
 
 Objectives:
 ###•	🛠️ Analyze precipitation patterns over time.
