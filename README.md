@@ -4,13 +4,13 @@
 This project focuses on univariate time series analysis using historical precipitation data. The main goal is to forecast future rainfall using advanced time series models.
 
 Objectives:
-###•	🛠️ Analyze precipitation patterns over time.
-###•	📈 Forecast future precipitation values using the SARIMA model.
+•	🛠️ Analyze precipitation patterns over time.
+•	📈 Forecast future precipitation values using the SARIMA model.
 
 📁 Dataset
-###•	Source: Kaggle Rainfall Dataset.
-###•	Size: Several years of daily rainfall data.
-###•	Key Attributes: Date, Precipitation, Temperature, Humidity, etc.
+•	Source: Kaggle Rainfall Dataset.
+•	Size: Several years of daily rainfall data.
+•	Key Attributes: Date, Precipitation, Temperature, Humidity, etc.
 
 🧹 Data Preprocessing
 •	Handling Missing Data: Missing values were identified and handled appropriately.
