@@ -15,7 +15,7 @@ Objectives:
  •	warnings to suppress unnecessary warnings.
 
 📁 Dataset:
- •	Source: Kaggle Rainfall Dataset.
+ •	Source: Rainfall Dataset.
  •	Key Attributes: Date, Precipitation, Temperature, Humidity, etc.
 
 📥 Data Loading and Initial Exploration:
