@@ -10,7 +10,8 @@ Objectives:
 📦 Imports:
  •	pandas for data manipulation.
  •	matplotlib.pyplot for data visualization.
- •	statsmodels libraries for time series decomposition, stationarity testing (ADF test), autocorrelation (ACF) and partial autocorrelation (PACF) plots, and modeling with SARIMAX and Exponential Smoothing.
+ •	statsmodels libraries for time series decomposition, stationarity testing (ADF test), autocorrelation (ACF) and partial autocorrelation 
+   (PACF) plots, and modeling with SARIMAX.
  •	warnings to suppress unnecessary warnings.
 
 📁 Dataset:
